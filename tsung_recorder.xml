@@ -1,0 +1,348 @@
+<session name='rec20181008-1549' probability='100'  type='ts_http'>
+<request><http url='/' version='1.1' method='GET'>
+  <http_header name='Accept' value='text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' />
+  <http_header name='Cache-Control' value='max-age=0' /></http></request>
+<request><http url='/wp-includes/js/jquery/jquery.js?ver=1.12.4' version='1.1' if_modified_since='Mon, 23 May 2016 09:00:29 GMT' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' />
+  <http_header name='Cache-Control' value='max-age=0' /></http></request>
+<request><http url='/wp-content/themes/twentyseventeen/style.css?ver=4.9.8' version='1.1' if_modified_since='Thu, 02 Aug 2018 16:43:30 GMT' method='GET'>
+  <http_header name='Accept' value='text/css,*/*;q=0.1' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' />
+  <http_header name='Cache-Control' value='max-age=0' /></http></request>
+<request><http url='/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1' version='1.1' if_modified_since='Fri, 20 May 2016 06:11:28 GMT' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' />
+  <http_header name='Cache-Control' value='max-age=0' /></http></request>
+<request><http url='/wp-includes/js/wp-emoji-release.min.js?ver=4.9.8' version='1.1' if_modified_since='Fri, 13 Jul 2018 06:37:26 GMT' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' />
+  <http_header name='Cache-Control' value='max-age=0' /></http></request>
+<request><http url='/wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js?ver=1.0' version='1.1' if_modified_since='Mon, 14 Nov 2016 11:41:31 GMT' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' />
+  <http_header name='Cache-Control' value='max-age=0' /></http></request>
+<request><http url='/wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js?ver=2.1.2' version='1.1' if_modified_since='Thu, 20 Oct 2016 04:12:31 GMT' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' />
+  <http_header name='Cache-Control' value='max-age=0' /></http></request>
+<request><http url='/wp-content/themes/twentyseventeen/assets/js/global.js?ver=1.0' version='1.1' if_modified_since='Fri, 02 Dec 2016 05:12:41 GMT' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' />
+  <http_header name='Cache-Control' value='max-age=0' /></http></request>
+<request><http url='/wp-includes/js/wp-embed.min.js?ver=4.9.8' version='1.1' if_modified_since='Wed, 23 Nov 2016 13:38:33 GMT' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' />
+  <http_header name='Cache-Control' value='max-age=0' /></http></request>
+<request><http url='/wp-content/themes/twentyseventeen/assets/images/header.jpg' version='1.1' if_modified_since='Thu, 17 Nov 2016 17:13:30 GMT' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' />
+  <http_header name='Cache-Control' value='max-age=0' /></http></request>
+<request><http url='/s/librefranklin/v2/jizDREVItHgc8qDIbSTKq4XkRiUf2zcZiVbJ.woff2' version='1.1' if_modified_since='Tue, 10 Oct 2017 23:07:22 GMT' method='GET'>
+  <http_header name='Accept' value='application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8' />
+  <http_header name='Accept-Encoding' value='identity' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' />
+  <http_header name='Cache-Control' value='max-age=0' /></http></request>
+<request><http url='/s/librefranklin/v2/jizAREVItHgc8qDIbSTKq4XkRi24_SI0q1vjitOh.woff2' version='1.1' if_modified_since='Tue, 10 Oct 2017 23:07:28 GMT' method='GET'>
+  <http_header name='Accept' value='application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8' />
+  <http_header name='Accept-Encoding' value='identity' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' />
+  <http_header name='Cache-Control' value='max-age=0' /></http></request>
+
+<thinktime random='true' value='8'/>
+
+<request><http url='/?s=WordPress' version='1.1' method='GET'>
+  <http_header name='Accept' value='text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='https://fonts.googleapis.com/css?family=Libre+Franklin%3A300%2C300i%2C400%2C400i%2C600%2C600i%2C800%2C800i&amp;subset=latin%2Clatin-ext' version='1.1' method='GET'>
+  <http_header name='Accept' value='text/css,*/*;q=0.1' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+
+<thinktime random='true' value='3'/>
+
+<request><http url='/sample-page/' version='1.1' method='GET'>
+  <http_header name='Accept' value='text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+
+<thinktime random='true' value='5'/>
+
+<request><http url='/' version='1.1' method='GET'>
+  <http_header name='Accept' value='text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+
+<thinktime random='true' value='3'/>
+
+<request><http url='/2018/10/' version='1.1' method='GET'>
+  <http_header name='Accept' value='text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+
+<thinktime random='true' value='3'/>
+
+<request><http url='/wp-login.php' version='1.1' method='GET'>
+  <http_header name='Accept' value='text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+
+<thinktime random='true' value='7'/>
+
+<request><http url='/wp-login.php' version='1.1'  contents='log=ops&amp;pwd=opsops56&amp;wp-submit=Log+In&amp;redirect_to=http%3A%2F%2F192.168.1.101%3A8000%2Fwp-admin%2F&amp;testcookie=1' content_type='application/x-www-form-urlencoded' method='POST'>
+  <http_header name='Accept' value='text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-admin/' version='1.1' method='GET'>
+  <http_header name='Accept' value='text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+
+<thinktime random='true' value='1'/>
+
+<request><http url='/wp-admin/load-styles.php?c=0&amp;dir=ltr&amp;load%5B%5D=dashicons,admin-bar,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-pointer,widgets&amp;load%5B%5D=,site-icon,l10n,buttons,wp-auth-check&amp;ver=4.9.8' version='1.1' method='GET'>
+  <http_header name='Accept' value='text/css,*/*;q=0.1' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/thickbox/thickbox.css?ver=4.9.8' version='1.1' method='GET'>
+  <http_header name='Accept' value='text/css,*/*;q=0.1' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-admin/load-scripts.php?c=0&amp;load%5B%5D=jquery-core,jquery-migrate,utils&amp;ver=4.9.8' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/css/editor.min.css?ver=4.9.8' version='1.1' method='GET'>
+  <http_header name='Accept' value='text/css,*/*;q=0.1' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-admin/load-scripts.php?c=0&amp;load%5B%5D=hoverIntent,common,admin-bar,wp-ajax-response,jquery-color,wp-lists,quicktags,jquery-query,admin-comments,jquery-ui-core,jquery-&amp;load%5B%5D=ui-widget,jquery-ui-mouse,jquery-ui-sortable,postbox,underscore,wp-util,wp-a11y,dashboard,thickbox,plugin-install,updates,shortc&amp;load%5B%5D=ode,media-upload,svg-painter,heartbeat,wp-auth-check,wplink,jquery-ui-position,jquery-ui-menu,jquery-ui-autocomplete&amp;ver=4.9.8' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/avatar/d19bf157763983ec3036cf25590321d4?s=52&amp;d=mm&amp;r=g' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/avatar/d19bf157763983ec3036cf25590321d4?s=128&amp;d=mm&amp;r=g' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-admin/admin-ajax.php?action=wp-compression-test&amp;test=1&amp;_ajax_nonce=c26f1e5c73&amp;1539013792008' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/thickbox/loadingAnimation.gif' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-admin/admin-ajax.php' version='1.1'  contents='_wpnonce=d0f2e53a5f&amp;timezone=Asia%2FBangkok&amp;action=get-community-events' content_type='application/x-www-form-urlencoded; charset=UTF-8' method='POST'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' />
+  <http_header name='X-Requested-With' value='XMLHttpRequest' /></http></request>
+<request><http url='/wp-admin/admin-ajax.php?action=dashboard-widgets&amp;widget=dashboard_primary&amp;pagenow=dashboard' version='1.1' method='GET'>
+  <http_header name='Accept' value='text/html, */*; q=0.01' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' />
+  <http_header name='X-Requested-With' value='XMLHttpRequest' /></http></request>
+<request><http url='/wp-admin/admin-ajax.php?action=wp-compression-test&amp;test=2&amp;_ajax_nonce=c26f1e5c73&amp;1539013792452' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-admin/admin-ajax.php?action=wp-compression-test&amp;test=no&amp;_ajax_nonce=c26f1e5c73&amp;1539013792713' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+
+<thinktime random='true' value='2'/>
+
+<request><http url='/wp-admin/edit.php' version='1.1' method='GET'>
+  <http_header name='Accept' value='text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-admin/load-scripts.php?c=0&amp;load%5B%5D=hoverIntent,common,admin-bar,jquery-ui-core,jquery-ui-widget,jquery-ui-position,jquery-ui-menu,wp-a11y,jquery-ui-autocomplete,ta&amp;load%5B%5D=gs-suggest,inline-edit-post,heartbeat,svg-painter,wp-auth-check&amp;ver=4.9.8' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-admin/admin-ajax.php' version='1.1'  contents='data%5Bwp-check-locked-posts%5D%5B%5D=post-1&amp;interval=15&amp;_nonce=182852a54c&amp;action=heartbeat&amp;screen_id=edit-post&amp;has_focus=true' content_type='application/x-www-form-urlencoded; charset=UTF-8' method='POST'>
+  <http_header name='Accept' value='application/json, text/javascript, */*; q=0.01' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' />
+  <http_header name='X-Requested-With' value='XMLHttpRequest' /></http></request>
+
+<thinktime random='true' value='2'/>
+
+<request><http url='/wp-admin/post.php?post=1&amp;action=edit' version='1.1' method='GET'>
+  <http_header name='Accept' value='text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-admin/load-styles.php?c=0&amp;dir=ltr&amp;load%5B%5D=dashicons,admin-bar,buttons,media-views,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menu&amp;load%5B%5D=s,wp-pointer,widgets,site-icon,l10n,wp-auth-check&amp;ver=4.9.8' version='1.1' method='GET'>
+  <http_header name='Accept' value='text/css,*/*;q=0.1' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.6-78496d1' version='1.1' method='GET'>
+  <http_header name='Accept' value='text/css,*/*;q=0.1' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/imgareaselect/imgareaselect.css?ver=0.9.8' version='1.1' method='GET'>
+  <http_header name='Accept' value='text/css,*/*;q=0.1' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=4.9.8' version='1.1' method='GET'>
+  <http_header name='Accept' value='text/css,*/*;q=0.1' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.6-78496d1' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-admin/load-scripts.php?c=0&amp;load%5B%5D=jquery-core,jquery-migrate,utils,moxiejs,plupload&amp;ver=4.9.8' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=4.9.8' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-admin/load-scripts.php?c=0&amp;load%5B%5D=hoverIntent,common,admin-bar,heartbeat,autosave,wp-ajax-response,jquery-color,wp-lists,quicktags,jquery-query,admin-comments,sug&amp;load%5B%5D=gest,jquery-ui-core,jquery-ui-widget,jquery-ui-mouse,jquery-ui-sortable,postbox,jquery-ui-position,jquery-ui-menu,wp-a11y,jquery&amp;load%5B%5D=-ui-autocomplete,tags-suggest,tags-box,underscore,word-count,post,editor-expand,thickbox,shortcode,backbone,wp-util,wp-backbone,&amp;load%5B%5D=media-models,wp-plupload,wp-mediaelement,wp-api-request,media-views,media-editor,media-audiovideo,mce-view,imgareaselect,image-e&amp;load%5B%5D=dit,svg-painter,wp-auth-check,editor,wplink,media-upload,wp-embed&amp;ver=4.9.8' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/tinymce/plugins/compat3x/plugin.min.js?ver=4800-20180716' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/tinymce/tinymce.min.js?ver=4800-20180716' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/tinymce/themes/modern/theme.min.js?wp-mce-4800-20180716' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/tinymce/plugins/lists/plugin.min.js?wp-mce-4800-20180716' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/tinymce/plugins/charmap/plugin.min.js?wp-mce-4800-20180716' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/tinymce/plugins/media/plugin.min.js?wp-mce-4800-20180716' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/tinymce/plugins/hr/plugin.min.js?wp-mce-4800-20180716' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/tinymce/plugins/colorpicker/plugin.min.js?wp-mce-4800-20180716' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/tinymce/plugins/tabfocus/plugin.min.js?wp-mce-4800-20180716' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/tinymce/plugins/textcolor/plugin.min.js?wp-mce-4800-20180716' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/tinymce/plugins/paste/plugin.min.js?wp-mce-4800-20180716' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/tinymce/plugins/fullscreen/plugin.min.js?wp-mce-4800-20180716' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/tinymce/plugins/wpeditimage/plugin.min.js?wp-mce-4800-20180716' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/tinymce/plugins/wptextpattern/plugin.min.js?wp-mce-4800-20180716' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/tinymce/plugins/wpautoresize/plugin.min.js?wp-mce-4800-20180716' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/tinymce/plugins/wpview/plugin.min.js?wp-mce-4800-20180716' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/tinymce/plugins/wpemoji/plugin.min.js?wp-mce-4800-20180716' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/tinymce/plugins/wplink/plugin.min.js?wp-mce-4800-20180716' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/tinymce/plugins/wpgallery/plugin.min.js?wp-mce-4800-20180716' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/tinymce/plugins/wpdialogs/plugin.min.js?wp-mce-4800-20180716' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/tinymce/plugins/wordpress/plugin.min.js?wp-mce-4800-20180716' version='1.1' method='GET'>
+  <http_header name='Accept' value='*/*' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-admin/edit.php?post_type=page' version='1.1' method='GET'>
+  <http_header name='Accept' value='text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/tinymce/skins/lightgray/skin.min.css?wp-mce-4800-20180716' version='1.1' method='GET'>
+  <http_header name='Accept' value='text/css,*/*;q=0.1' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/tinymce/skins/lightgray/content.min.css?wp-mce-4800-20180716' version='1.1' method='GET'>
+  <http_header name='Accept' value='text/css,*/*;q=0.1' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-content/themes/twentyseventeen/assets/css/editor-style.css?wp-mce-4800-20180716' version='1.1' method='GET'>
+  <http_header name='Accept' value='text/css,*/*;q=0.1' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/js/tinymce/skins/wordpress/wp-content.css?ver=4.9.8&amp;wp-mce-4800-20180716' version='1.1' method='GET'>
+  <http_header name='Accept' value='text/css,*/*;q=0.1' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-includes/css/dashicons.min.css?ver=4.9.8&amp;wp-mce-4800-20180716' version='1.1' method='GET'>
+  <http_header name='Accept' value='text/css,*/*;q=0.1' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-admin/admin-ajax.php' version='1.1'  contents_from_file='/root/.tsung/tsung_recorder20181008-1548-1.bin' content_type='multipart/form-data; boundary=---------------------------199004423217630888461254873416' method='POST'>
+  <http_header name='Accept' value='text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+<request><http url='/wp-admin/admin-ajax.php' version='1.1'  contents='data%5Bwp-check-locked-posts%5D%5B%5D=post-3&amp;data%5Bwp-check-locked-posts%5D%5B%5D=post-2&amp;interval=15&amp;_nonce=182852a54c&amp;action=heartbeat&amp;screen_id=edit-page&amp;has_focus=true' content_type='application/x-www-form-urlencoded; charset=UTF-8' method='POST'>
+  <http_header name='Accept' value='application/json, text/javascript, */*; q=0.01' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' />
+  <http_header name='X-Requested-With' value='XMLHttpRequest' /></http></request>
+
+<thinktime random='true' value='2'/>
+
+<request><http url='/wp-admin/index.php' version='1.1' method='GET'>
+  <http_header name='Accept' value='text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' />
+  <http_header name='Accept-Encoding' value='gzip, deflate' />
+  <http_header name='Accept-Language' value='en-US,en;q=0.5' /></http></request>
+</session>
